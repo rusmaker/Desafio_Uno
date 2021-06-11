@@ -10,7 +10,7 @@ Este proyecto expone un API REST que entrega la siguiente información:
 - fechasFaltantes: Lista de fechas que no están en el rango de la fecha que se encuentra en “fechaCreacion” hasta la fecha “fechaFin” 
 
 Ejemplo.
-´´´json
+```json
 {
     "id": 6,
     "fechaCreacion": "1969-03-01",
@@ -29,7 +29,7 @@ Ejemplo.
       "1969-11-01",
       "1969-12-01"]
 }
-´´´
+```
 
 Nota: Este servicio consume al servicio REST llamado Generador De Datos o GDD, por tanto debe estar ejecutándose. Una versión del GDD se encuentra en el repositorio  GitHub: https://github.com/previred/Generador_Datos_Desafio_Uno
 
