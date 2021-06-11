@@ -33,7 +33,7 @@ Ejemplo.
 
 Nota: Este servicio consume al servicio REST llamado Generador De Datos o GDD, por tanto debe estar ejecutándose. Una versión del GDD se encuentra en el repositorio  GitHub: https://github.com/previred/Generador_Datos_Desafio_Uno
 
-Detalle de los sistemas
+### Detalle de los sistemas
 - Swagger 2.6.1 
 - Java 8 Spring-Boot 2.4.6
 - Maven 3
